@@ -1,0 +1,6 @@
+{
+  "name": "Cyclotomic Coset Generator",
+  "description": "Calculate and display cyclotomic cosets for lengths q^m-1 and 2(q^m-1).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
